@@ -103,10 +103,10 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@react-navigation/core@^3.0.0-alpha.7":
-  version "3.0.0-alpha.7"
-  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.0.0-alpha.7.tgz#10116867febd74a371a7cc393c3dd6071e25ceae"
-  integrity sha512-aUbUAUgNpOppxj59E++S39gBiRCLlttzmwxeZoIJJ57q3IQ2vXNjXiAl66xJeRTIGT5GsEn0nOJO4YeSd5FOfQ==
+"@react-navigation/core@^3.0.0-alpha.9":
+  version "3.0.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.0.0-alpha.9.tgz#2a8dafa0dc636d71e208c581873a0152da96ca2d"
+  integrity sha512-WdblNhAIgHytctDdyDvbHTWZt2vFZd/457sK3DiCbCnjd0IM4RPN64Pt2vlw/e4Z7g5okPIo28VPlRbODR97Vg==
   dependencies:
     create-react-context "^0.2.3"
     hoist-non-react-statics "^3.0.1"
@@ -114,12 +114,11 @@
     query-string "^6.2.0"
     react-lifecycles-compat "^3.0.4"
 
-"@react-navigation/web@^1.0.0-alpha.3":
-  version "1.0.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/@react-navigation/web/-/web-1.0.0-alpha.3.tgz#3722e00d2516b442eb2f8eaedac78d238b18db84"
-  integrity sha512-qIMXOpZrJ/zqluW+GRu4ii4KnhnbECoAF3w48OfrOL6MN12kkYUjwM3LJOq8yiBE/4KbrH3ausD3rzzzoD4uGQ==
+"@react-navigation/web@^1.0.0-alpha.4":
+  version "1.0.0-alpha.4"
+  resolved "https://registry.yarnpkg.com/@react-navigation/web/-/web-1.0.0-alpha.4.tgz#977c5907e911280483a14be511922ccd2353d9e2"
+  integrity sha512-DyTLaPbPYG9N4ocSXGWaXWyrNqTd3VUbPdbAmeThUWQW0U9h+M0yhCq1uqaG52JxWeZgwxcQOYrb1s/QUEF8+g==
   dependencies:
-    "@react-navigation/core" "^3.0.0-alpha.7"
     history "^4.7.2"
     query-string "^6.2.0"
 

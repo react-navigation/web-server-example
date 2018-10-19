@@ -97,7 +97,7 @@ class SidebarView extends React.Component {
         >
           <h1>Hello, Navigation</h1>
           {Object.keys(descriptors).map(d => (
-            <div>
+            <div key={d}>
               <Link
                 to={descriptors[d].navigation.state.routeName}
                 navigation={navigation}
