@@ -103,10 +103,10 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@react-navigation/core@^3.0.0-alpha.9":
-  version "3.0.0-alpha.9"
-  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.0.0-alpha.9.tgz#2a8dafa0dc636d71e208c581873a0152da96ca2d"
-  integrity sha512-WdblNhAIgHytctDdyDvbHTWZt2vFZd/457sK3DiCbCnjd0IM4RPN64Pt2vlw/e4Z7g5okPIo28VPlRbODR97Vg==
+"@react-navigation/core@^3.0.0-alpha.10":
+  version "3.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.0.0-alpha.10.tgz#c5d1dc3bb1bb4954b6c43ef225fb4e1159d98d8f"
+  integrity sha512-Yew0tOGDGkNyzVr2kG1BjR4zHr8B4EHicyvtAWqQy/cFrp5mO+HG5Ev/fva4FxSpEe5Bh6zvoReHXtC8mXerlA==
   dependencies:
     create-react-context "^0.2.3"
     hoist-non-react-statics "^3.0.1"
