@@ -9,8 +9,8 @@
     "start:prod": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "@react-navigation/core": "^3.0.0-alpha.10",
-    "@react-navigation/web": "^1.0.0-alpha.4",
+    "@react-navigation/core": "^3.0.0-alpha.13",
+    "@react-navigation/web": "^1.0.0-alpha.7",
     "express": "^4.16.4",
     "razzle": "^2.4.0",
     "react": "^16.5.2",

@@ -2,7 +2,9 @@ import App from "./App";
 import React from "react";
 import express from "express";
 import { renderToString } from "react-dom/server";
+
 import { handleServerRequest } from "@react-navigation/web";
+// import handleServerRequest from "@react-navigation/web/dist/handleServerRequest";
 
 const assets = require(process.env.RAZZLE_ASSETS_MANIFEST);
 
