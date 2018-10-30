@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "@react-navigation/web";
+import { useNavigationParam } from "react-navigation-hooks";
+
+const ContributorInfo = () => <p>Name: {useNavigationParam("name")}</p>;
 
 export default class Contributor extends Component {
   static path = "contributor/:name";
@@ -12,6 +15,7 @@ export default class Contributor extends Component {
     return (
       <div>
         <h2>Contributor Screen</h2>
+        <ContributorInfo />
       </div>
     );
   }
