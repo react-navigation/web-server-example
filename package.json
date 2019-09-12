@@ -9,12 +9,12 @@
     "start:prod": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "@react-navigation/core": "^3.0.0-alpha.17",
-    "@react-navigation/web": "^1.0.0-alpha.7",
-    "express": "^4.16.4",
-    "razzle": "^2.4.0",
-    "react": "^16.7.0-alpha.0",
-    "react-dom": "^16.7.0-alpha.0",
+    "react-navigation": "^3.0.9",
+    "@react-navigation/web": "^1.0.0-alpha.9",
+    "express": "^4.17.1",
+    "razzle": "^2.4.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-navigation-hooks": "^1.0.0-alpha.2"
   }
 }
